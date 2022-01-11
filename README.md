@@ -1,5 +1,6 @@
 # FinalProject - Backend
-## C# ( .Net Core )
+
+## C# ( .Net Core ) E-Commerce Project
 
 
 <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="right" width="375" height="375" >
