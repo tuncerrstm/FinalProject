@@ -1,4 +1,5 @@
-# FinalProject - C#, .Net Core and Angular
+# FinalProject - Backend
+## C# ( .Net Core )
 
 
 <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="right" width="375" height="375" >
@@ -6,7 +7,7 @@
 ## Hi there, I'm Tundzher. :blush:
 
 ### | Software Engineer | 
-#### | C#, Java, React, Angular Developer |
+#### | C#, Java, React Developer |
 
 <font color="red"> Coffee is how I keep up with! `<code />` </font>
 
@@ -52,4 +53,4 @@
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
 [instagram]:https://www.instagram.com/toniochmuzi/
 
-<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="400" height="400">
+<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="360" height="360">
