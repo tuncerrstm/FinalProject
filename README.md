@@ -1,7 +1,7 @@
 # FinalProject - C#, .Net Core and Angular
 
 
-<img src="https://giphy.com/clips/bestfriends-best-friends-adopt-animal-adoption-FaHOtxa23Tb4wtygMg" align ="right" >
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="right" >
 
 ## Hi there, I'm Tundzher. :blush:
 
@@ -52,5 +52,4 @@
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
 [instagram]:https://www.instagram.com/toniochmuzi/
 
-<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="right">
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="left">
+<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left">
