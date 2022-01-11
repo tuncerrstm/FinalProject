@@ -1,7 +1,7 @@
 # FinalProject - C#, .Net Core and Angular
 
 
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="right" >
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="right" width="350" height="350" >
 
 ## Hi there, I'm Tundzher. :blush:
 
