@@ -44,11 +44,19 @@ namespace Business.Concrete
         {
             // İş Kodları Buraya Yazılır.
             // Yetkisi var mı? İzinlerin sorgulaması burada yapılır!
+<<<<<<< HEAD
+
+            if (DateTime.Now.Hour == 23)
+            {
+                return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
+            }
+=======
            
             //if (DateTime.Now.Hour == 22)
             //{
             //    return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
             //}
+>>>>>>> b54937282fdb97a0ec75457d3607327926cb117a
 
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(),Messages.ProductsListed);
 

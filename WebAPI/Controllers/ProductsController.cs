@@ -26,6 +26,43 @@ namespace WebAPI.Controllers
             _productService = productService;
         }
 
+<<<<<<< HEAD
+        [HttpGet("getall")]
+        public IActionResult GetAll()
+        {
+            // Swagger : Hazır dökümantasyon imkanı sunar.
+            // Burada bir :  Dependency Chain var. --> Yani bağımlılık zinciri.
+            
+            var result = _productService.GetAll();
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
+        }
+
+        [HttpGet("getbyid")]
+        public IActionResult GetById(int id)
+        {
+            var result = _productService.GetById(id);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
+        [HttpPost("add")]
+        public IActionResult Add(Product product)
+        {
+            var result = _productService.Add(product);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+=======
         [HttpGet]
         public List<Product> Get()
         {
@@ -33,6 +70,7 @@ namespace WebAPI.Controllers
             
             var result = _productService.GetAll();
             return result.Data;
+>>>>>>> b54937282fdb97a0ec75457d3607327926cb117a
         }
     }
 }
