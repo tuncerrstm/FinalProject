@@ -5709,11 +5709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5735,11 +5735,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\Core\\Core.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }

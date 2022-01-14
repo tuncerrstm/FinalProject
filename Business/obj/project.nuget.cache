@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfjIuDUlvzc8hKV2gSLu42SUW9Ckn9BsJfv2v2Pkm+p6mlf0GWByWO+5rDZ8ZSoLoU3pxyqRY62TdzcAjNM/yw==",
+  "dgSpecHash": "zrNxEHrJPNdR3W9fswARwtcBoz3TxyKB5g8UwegHVt8EysoXyaFHgEg3oeElF+0RI8ZXIqrlO7KN0JyhX4FbEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\FinalProject\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
