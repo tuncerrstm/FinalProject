@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9EetyDIsmQrIZ9iHqNk684No/SHeQ3G2MA6NERc0ztHToITVAss4GZYIJI/4H5MHm9avSYHg9pEb/sLkmC+ig==",
+  "dgSpecHash": "6ZyIp3mVk2daEcSKQq7r9zaFaouYNW+koQB0Pro7riRSH//3YtF3jYyTdLmcQxiqwh1jR1SId+PATSkVOlOcwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

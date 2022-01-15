@@ -26,7 +26,6 @@ namespace WebAPI.Controllers
             _productService = productService;
         }
 
-<<<<<<< HEAD
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
@@ -62,15 +61,6 @@ namespace WebAPI.Controllers
                 return Ok(result);
             }
             return BadRequest(result);
-=======
-        [HttpGet]
-        public List<Product> Get()
-        {
-            // Burada bir :  Dependency Chain var. --> Yani bağımlılık zinciri.
-            
-            var result = _productService.GetAll();
-            return result.Data;
->>>>>>> b54937282fdb97a0ec75457d3607327926cb117a
         }
     }
 }
