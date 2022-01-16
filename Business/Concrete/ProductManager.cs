@@ -1,9 +1,12 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,26 +24,26 @@ namespace Business.Concrete
             _productDal = productDal;
         }
 
-     
 
         public IResult Add(Product product)
         {
             // Business Codes.
-            
-            if(product.ProductName.Length < 2)
-            {
-                // Magic Strings bunlardan kurtulmalıyız. Büyüyen projelerde sorun ve karmaşa haline gelir
-                // O yüzden Bussines katmanında standart hale getirir ve temiz bir kod yazarız. Constants klasörü oluşturulur.
-                // Constants : Sabitler anlamına gelir ve projenin sabitleri bu klasöre tanımlanır.
-                return new ErrorResult(Messages.ProductNameInvalid);
-            }
+            // Validation (Doğrulama) Codes.
+
+            // Magic Strings bunlardan kurtulmalıyız. Büyüyen projelerde sorun ve karmaşa haline gelir
+            // O yüzden Bussines katmanında standart hale getirir ve temiz bir kod yazarız. Constants klasörü oluşturulur.
+            // Constants : Sabitler anlamına gelir ve projenin sabitleri bu klasöre tanımlanır.
+
+            ValidationTool.Validate(new ProductValidator(), product);
+
+
 
             _productDal.Add(product);
 
             return new SuccessResult(Messages.ProductAdded);
         }
 
-        public IDataResult<List<Product>> GetAll() 
+        public IDataResult<List<Product>> GetAll()
         {
             // İş Kodları Buraya Yazılır.
             // Yetkisi var mı? İzinlerin sorgulaması burada yapılır!
@@ -50,13 +53,13 @@ namespace Business.Concrete
                 return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
             }
 
-            return new SuccessDataResult<List<Product>>(_productDal.GetAll(),Messages.ProductsListed);
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(), Messages.ProductsListed);
 
         }
 
         public IDataResult<List<Product>> GetAllByCategoryId(int id)
         {
-            return new SuccessDataResult<List<Product>>(_productDal.GetAll( p => p.CategoryId == id));
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(p => p.CategoryId == id));
         }
 
         public IDataResult<Product> GetById(int productId)

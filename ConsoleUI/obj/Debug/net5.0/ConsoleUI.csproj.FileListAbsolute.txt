@@ -140,3 +140,7 @@ C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\obj\Debug\net5.0\Con
 C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
 C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
 C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\ConsoleUI\bin\Debug\net5.0\FluentValidation.dll

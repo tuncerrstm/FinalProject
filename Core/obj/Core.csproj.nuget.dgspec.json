@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj": {}
+    "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.2, )"

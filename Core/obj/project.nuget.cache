@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7xx9Ye8fA/sgiXV0yANsSDnUm0XeSjxOP+2CWuTAhH5apuJjmojI8pNrRVp4ko5CuuqNeWXO+cQV5p8NLjFTFw==",
+  "dgSpecHash": "+Te1z01pOV/OkhVgGPylxiCsdJrKVgkGcl5suSfMshcSQnyV60s5dmxzJCINg0XqChjEUwppM0ZQJIpza2ZHIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\Desktop\\FinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

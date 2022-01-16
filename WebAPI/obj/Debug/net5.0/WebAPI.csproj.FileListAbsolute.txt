@@ -132,3 +132,8 @@ C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\FinalProject\WebAPI\obj\Debug\net5
 C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\FinalProject\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\FinalProject\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\FinalProject\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Tuncer Rüstemoğlu\Desktop\FinalProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
